@@ -1,0 +1,19 @@
+body {
+    background: #787878;
+}
+
+.table {
+    background: #fff;
+}
+
+.container-fluid {
+    margin-top: 15px;
+}
+
+.delete-url, .url-total-visits, #urls-table th {
+    cursor: pointer;
+}
+
+.url-total-visits {
+    font-size: 16px;
+}
