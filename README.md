@@ -25,8 +25,6 @@ This rule also applies to localhost (xampp or wamp).
 
 Last but not least in order the shorten URLs to work you need to enable Apache module __mod_rewrite__ if it is disabled.
 
-Created by: https://andrejphp.is/
-
 ### Screenshots
 
 1)
